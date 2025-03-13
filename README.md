@@ -1,7 +1,5 @@
 # Small-Basket
-3rd YR Mini Project 
-
-This is a web application which focusses on neighbouring shops in increasing their business profit, customer base etc...
+3rd YR Mini Project - This is a web application which focusses on neighbouring shops in increasing their business profit, customer base etc...
 This application hs two different portals
 - Shopkeeper Portal
 - Customer Portal
